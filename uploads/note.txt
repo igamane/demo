@@ -1,0 +1,1 @@
+This directory, though currently empty, serves a pivotal role in facilitating the seamless uploading of files to the OpenAI API
